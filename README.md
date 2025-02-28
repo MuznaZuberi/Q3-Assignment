@@ -5,7 +5,7 @@ Welcome to the **Python  Assignments** repository! 📚 This repository contains
 ---
 
 ## 📖 About This Repository  
-This repository is created to maintain and organize all Python assignments given in class. Each assignment is categorized properly for easy access and reference.  
+This repository is created to maintain and organize all Python assignments given. Each assignment is categorized properly for easy access and reference.  
 
 🔹 **Language:** Python 🐍  
 🔹 **Difficulty Level:** Beginner to Advanced 🚀  
